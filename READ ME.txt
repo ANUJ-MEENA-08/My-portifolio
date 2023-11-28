@@ -1,0 +1,17 @@
+BHARAT-INTERN TASK 1 SUBMISSION : MY PORTIFOLIO WEBSITE MADE BY ANUJ MEENA USING HTML,CSS.
+
+Name : ANUJ MEENA.
+
+Role : Web Development Intern.
+
+I have created this My portifolio website using html, css. It contains pages like Home page, My Intro, My Skills, My Projects and Contact me page.
+This website shows my skills and earlier works(projects) and this will help me to build up my career.
+
+HOW TO OPEN THIS WEBSITE ---
+
+--> You can simply double click on the index.html file and it will open in the default browser showing the website.
+
+--> otherwise you can oprn the index.html file in your vs-code and then run it on the live server. it will show the website.
+
+
+---------------- THANK YOU ------------------
